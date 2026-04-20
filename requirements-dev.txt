@@ -11,6 +11,8 @@ httptools==0.6.4
 idna==3.10
 Mako==1.3.10
 MarkupSafe==3.0.2
+packaging==26.0
+prometheus_client==0.22.1
 psycopg2-binary==2.9.10
 pydantic==2.11.8
 pydantic-settings==2.10.1
@@ -28,4 +30,4 @@ uvicorn==0.35.0
 uvloop==0.21.0
 watchfiles==1.1.0
 websockets==15.0.1
-prometheus-client==0.22.1
+wheel==0.46.3
